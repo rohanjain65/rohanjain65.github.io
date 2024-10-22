@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #B2AC88;
+    background-color: #A5B68D;
     color: #333;
     margin: 0;
     padding: 0;
@@ -18,7 +18,7 @@ body {
 }
 
 #navigation {
-    background-color: #B2AC88;
+    background-color: #A5B68D;
     text-align: center;
 }
 
@@ -41,7 +41,7 @@ a:hover {
 
 /* Bio section styling */
 #bio-section {
-    background-color: #B2AC88;
+    background-color: #A5B68D;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
