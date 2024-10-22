@@ -65,15 +65,3 @@ a:hover {
     margin: 0 auto;
 }
 
-p, h1, h2, h3, div, nav, ul, li, section {
-    text-indent: 0;
-    margin: 0;
-    padding: 0;
-}
-
-
-p, h1, h2, h3 {
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
