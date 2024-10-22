@@ -1,42 +1,36 @@
-/* Style the body */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: seagreen;
     color: #333;
     margin: 0;
     padding: 0;
 }
 
-/* Use a class for styling */
 .section {
     padding: 20px;
     margin: 20px;
-    border: 2px solid #333; /* Box model property 1: border */
+    border: 2px solid #333; 
 }
 
-/* Apply a class to style multiple elements */
 .description {
     font-size: 18px;
     line-height: 1.6;
 }
 
-/* Style an id */
 #navigation {
     background-color: #eaeaea;
     text-align: center;
 }
 
-/* Use a CSS selector for the anchor tag and change color on hover */
 a {
     color: #0077cc;
     text-decoration: none;
 }
 
 a:hover {
-    color: #005fa3; /* CSS hover change */
+    color: #005fa3; 
 }
 
-/* Box model property 2: Padding */
 .profile-image {
     padding: 10px;
     border: 2px solid #ddd;
